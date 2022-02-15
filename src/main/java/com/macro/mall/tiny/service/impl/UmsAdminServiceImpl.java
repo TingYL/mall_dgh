@@ -41,7 +41,7 @@ public class UmsAdminServiceImpl implements UmsAdminService {
     private String tokenHead;
     @Autowired
     private UmsAdminMapper adminMapper;
-    @Autowired(required = false)
+    @Autowired
     private UmsAdminRoleRelationDao adminRoleRelationDao;
 
     @Override

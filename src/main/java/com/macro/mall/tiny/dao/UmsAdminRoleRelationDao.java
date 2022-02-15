@@ -3,7 +3,6 @@ package com.macro.mall.tiny.dao;
 
 import com.macro.mall.tiny.mbg.model.UmsPermission;
 import org.apache.ibatis.annotations.Param;
-import org.springframework.stereotype.Service;
 
 
 import java.util.List;
